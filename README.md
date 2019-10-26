@@ -1,5 +1,3 @@
-## Zipkin Server With RabbitMQ
-
 ## Github
 Github Link (https://github.com/srfaytkn/zipkin-server) 
 
